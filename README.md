@@ -1,16 +1,38 @@
-# bw_project
+# BW Project
 
-A new Flutter project.
+A Flutter mobile application with user authentication, feed functionality, and profile management.
+Strictly made for sample testing and show casing my skill
+
+## Features
+
+* User authentication (login/signup) using Firebase
+* Persistent login state using SharedPreferences
+* Feed page displaying dynamic content
+* Like and save functionality for feed items
+* User profile page with personal information
+* Logout functionality
+
+## Screenshots
+
+Nothing added till now!
+
+## Technologies Used
+
+* Flutter
+* Firebase Authentication
+* SharedPreferences for local storage
+* [Any other libraries/packages used in your project]
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+* Flutter (latest stable version)
+* Dart SDK
+* Android Studio / VS Code
+* Firebase account
+* Git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository
