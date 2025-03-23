@@ -21,7 +21,8 @@ Nothing added till now!
 * Flutter
 * Firebase Authentication
 * SharedPreferences for local storage
-* [Any other libraries/packages used in your project]
+* GoogleFonts for fonts[monteserrat]
+* CurvedBottomBar for the bottomNavigationbar.
 
 ## Getting Started
 
